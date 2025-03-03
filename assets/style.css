@@ -98,7 +98,7 @@ body {
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
+	color: #000;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
@@ -124,7 +124,7 @@ body {
 	padding: .5em;
 }
 .mg-prev, .mg-next {
-	width: 30px;
+	width: 45px;
 	height: 30px;
 	border-radius: 00%;
 	justify-content: center;
@@ -237,7 +237,7 @@ form textarea {
 	font-size: 1.2em;
 	margin-bottom: 20px;
 }
-button [type="submit"] {
+button[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
