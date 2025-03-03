@@ -220,7 +220,7 @@ form {
 	align-items: flex-start;
 }
 
-form input {
+form input, button {
 	width: 100%;
 	background-color: transparent;
 	border: solid 1px;
@@ -237,7 +237,7 @@ form textarea {
 	font-size: 1.2em;
 	margin-bottom: 20px;
 }
-input[type="submit"] {
+button [type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
