@@ -81,6 +81,10 @@ img {
   width: 100%;
 }
 
+.visually-hidden {
+  display: none;
+}
+
 #about-me {
   flex: 2;
   text-align: justify;
